@@ -1,0 +1,12 @@
+/* TODO: 빨간박스 */
+.box1 {width: 6rem; 
+       height: 6rem;
+       background-color: red; 
+       float: left;}
+/* TODO: 노란박스 */
+.box2 {width: 6rem;
+       height: 6rem; 
+       background-color: yellow;
+       float: right;}
+       
+/* float 특성상 추가 코딩 시 clear:both; 사용해 주세요. */

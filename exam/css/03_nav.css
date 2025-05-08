@@ -1,0 +1,4 @@
+.clear {clear: both;}
+#page {width: 99vw; margin: 0 auto;}
+nav {width: 100%; margin: 0 auto;}
+.menu li{display: inline-block; margin: 1rem; display: flex; justify-content: center;}
